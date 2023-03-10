@@ -1,2 +1,2 @@
 # DevSecOps
-Complete DevSecOps research
+Complete DevSecOps research.
